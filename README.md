@@ -19,16 +19,16 @@ GIF AQUI
 
 Tela de Iníco
 
-![Tela Inicial](https://ibb.co/RTG4mcy)
+![Tela Inicial](https://github.com/Higor-Matos/CampoMinado/blob/main/Imagens/CampoInicial.png)
 
 Você Ganhou!
-![Win](https://imgur.com/a/MBYuF2L)
+![Win](https://github.com/Higor-Matos/CampoMinado/blob/main/Imagens/Win.png)
 
 Você Perdeu!
-![Lose](https://ibb.co/4V6M57J)
+![Lose](https://github.com/Higor-Matos/CampoMinado/blob/main/Imagens/Lose.png)
 
 Recordes
-![Recordes](https://imgur.com/a/TLSMWOW)
+![Recordes](https://github.com/Higor-Matos/CampoMinado/blob/main/Imagens/Recordes.png)
 
 ## Funcionalidades
 
