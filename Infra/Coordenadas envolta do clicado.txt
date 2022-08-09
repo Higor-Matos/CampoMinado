@@ -1,0 +1,13 @@
+sempre que a pessoa clicar, deve-se abrir os 8 envoltas se não tiver bomba
+
+
+[-1][-1]
+[-1][]
+[-1][+1]
+
+[][-1]
+[][1]
+
+[+1][-1]
+[+1][]
+[+1][+1]

@@ -1,0 +1,40 @@
+
+	int i,j;
+	for(i=0;i<s->lin;i++)
+	{
+		for(j=0;j<s->col;j++)
+		{
+			printf("%c ",s->camp_padinvi[i][j]);
+		}
+		printf("\n");
+	}
+	system ("pause");
+
+
+
+printf("\n\n Teste");
+system ("pause");
+
+
+ 		printf("lin_s %d\ncol_s %d", s->lin_s, s->col_s);
+		system ("pause");	
+
+
+
+
+
+
+
+
+
+	if(s->camp_pad == ' '                ||
+	s->camp_pad[s->lin_s][s->col_s] > 48 ||
+	s->camp_pad[s->lin_s][s->col_s] < 58 &&
+	(s->lin_s >=0 )                      &&
+	(s->col_s >= 0)                      &&
+	(s->lin_s < s->lin)                  &&
+	(s->col_s < s->col)                    )
+	{
+		printf ("\n Impossível abrir um campo já aberto \n");
+		digitar_coordenada(s);
+	}
