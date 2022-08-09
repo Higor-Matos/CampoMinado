@@ -12,22 +12,21 @@ O Campo Minado em C foi meu primeiro contato com programação. Foi desenvolvido
 
 ## Demonstração
 
-GIF AQUI
-
+![GIF](gif.gif)
 
 ## Screenshots
 
-Tela de Iníco
+###### Tela de Iníco
 
 ![Tela Inicial](https://github.com/Higor-Matos/CampoMinado/blob/main/Imagens/CampoInicial.png)
 
-Você Ganhou!
+###### Você Ganhou!
 ![Win](https://github.com/Higor-Matos/CampoMinado/blob/main/Imagens/Win.png)
 
-Você Perdeu!
+###### Você Perdeu!
 ![Lose](https://github.com/Higor-Matos/CampoMinado/blob/main/Imagens/Lose.png)
 
-Recordes
+###### Recordes
 ![Recordes](https://github.com/Higor-Matos/CampoMinado/blob/main/Imagens/Recordes.png)
 
 ## Funcionalidades
